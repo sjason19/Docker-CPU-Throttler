@@ -8,4 +8,4 @@
 - cd into the directory you installed the script and run the following command: `sudo sh lim_cpu_docker.sh`
 - Open up your Activity Monitor and you should notice your docker container not utilizing more than 50% CPU usage
 
-
+![cpu_throttle](https://raw.githubusercontent.com/sjason19/Docker-CPU-Throttler/master/docker_throttle.png)
