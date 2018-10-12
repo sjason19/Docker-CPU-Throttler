@@ -4,8 +4,8 @@
 ### How to use?
 - First you will need to have [cputhrottle](http://brewformulas.org/Cputhrottle) installed by running `brew install cputhrottle`
 - Next, clone this script and cd into the directory you installed it to
-- Before running the script make sure your docker containers are up and running so we can locate the p_id
-- Now run the following command: `sudo sh lim_cpu_docker.sh`
+- Before running the Docker-CPU-Throttler script make sure your docker containers are up and running so we can locate the p_id
+- cd into the directory you installed the script and run the following command: `sudo sh lim_cpu_docker.sh`
 - Open up your Activity Monitor and you should notice your docker container not utilizing more than 50% CPU usage
 
 
